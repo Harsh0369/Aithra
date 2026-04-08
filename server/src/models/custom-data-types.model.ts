@@ -1,0 +1,1 @@
+export const statusEnum = ['pending', 'processing', 'completed', 'failed'] as const;
